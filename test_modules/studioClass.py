@@ -10,3 +10,4 @@ class StudioStg(SeleniumTest):
         self.load_website()
         studio_page = self.get_studio_element()
         studio_page.click_modal_one()
+        # sample push to test the sequence
