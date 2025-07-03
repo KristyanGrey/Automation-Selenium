@@ -12,3 +12,4 @@ class StudioStg(SeleniumTest):
         studio_page.click_modal_one()
         # sample edit on github
         #another sample edit
+        # Edit wow
