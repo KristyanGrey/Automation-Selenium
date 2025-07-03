@@ -1,0 +1,4 @@
+2025-06-24 14:52:50,845 - get_login_page-chrome-(1280 800) - DEBUG - Clicking dropdown menu
+2025-06-24 14:52:51,007 - get_login_page-chrome-(1280 800) - DEBUG - Clicking sign up in dropdown
+2025-06-24 14:52:51,166 - get_login_page-chrome-(1280 800) - DEBUG - Filling sign up form
+2025-06-24 14:52:51,951 - get_login_page-chrome-(1280 800) - DEBUG - Clicking I am not a robot

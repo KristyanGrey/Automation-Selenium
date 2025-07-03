@@ -1,0 +1,5 @@
+2025-06-23 19:00:18,832 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Email
+2025-06-23 19:00:19,069 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Password
+2025-06-23 19:00:19,156 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Click Login Button
+2025-06-23 19:00:19,283 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Select Sidebar OO Admin Dropdown
+2025-06-23 19:00:29,374 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Select Menu Item

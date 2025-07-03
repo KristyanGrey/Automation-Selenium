@@ -1,0 +1,11 @@
+2025-06-24 09:56:48,448 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Email
+2025-06-24 09:56:48,610 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Password
+2025-06-24 09:56:48,711 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Click Login Button
+2025-06-24 09:56:48,830 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Select Sidebar OO Admin Dropdown
+2025-06-24 09:56:59,144 - get_login_page-chrome-(1280 800) - DEBUG - Clicking Skip button on modal
+2025-06-24 09:56:59,797 - get_login_page-chrome-(1280 800) - DEBUG - Searching and selecting store: xtian test store 01
+2025-06-24 09:57:00,741 - get_login_page-chrome-(1280 800) - DEBUG - Clicking Skip button on modal
+2025-06-24 09:57:02,349 - get_login_page-chrome-(1280 800) - DEBUG - Clicking sidebar menu item
+2025-06-24 09:57:03,840 - get_login_page-chrome-(1280 800) - DEBUG - Clicking Add Item button
+2025-06-24 09:57:04,023 - get_login_page-chrome-(1280 800) - DEBUG - Clicking the specified checkbox in modal
+2025-06-24 09:57:05,187 - get_login_page-chrome-(1280 800) - DEBUG - Checkbox in modal not found; continuing.

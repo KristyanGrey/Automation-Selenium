@@ -1,0 +1,5 @@
+2025-06-23 19:29:20,384 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Email
+2025-06-23 19:29:20,561 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Password
+2025-06-23 19:29:20,662 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Click Login Button
+2025-06-23 19:29:20,849 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Select Sidebar OO Admin Dropdown
+2025-06-23 19:29:30,249 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Escape Studio

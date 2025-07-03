@@ -1,0 +1,7 @@
+2025-06-23 19:48:33,129 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Email
+2025-06-23 19:48:33,315 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Password
+2025-06-23 19:48:33,402 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Click Login Button
+2025-06-23 19:48:33,530 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Select Sidebar OO Admin Dropdown
+2025-06-23 19:48:42,472 - get_login_page-chrome-(1280 800) - DEBUG - Clicking Skip button on modal
+2025-06-23 19:48:43,136 - get_login_page-chrome-(1280 800) - DEBUG - Searching and selecting store: xtian test store 01
+2025-06-23 19:48:43,937 - get_login_page-chrome-(1280 800) - DEBUG - Clicking Skip button on modal

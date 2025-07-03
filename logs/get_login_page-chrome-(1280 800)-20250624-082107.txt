@@ -1,0 +1,11 @@
+2025-06-24 08:21:13,176 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Email
+2025-06-24 08:21:13,378 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Password
+2025-06-24 08:21:13,471 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Click Login Button
+2025-06-24 08:21:13,621 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Select Sidebar OO Admin Dropdown
+2025-06-24 08:21:23,278 - get_login_page-chrome-(1280 800) - DEBUG - Clicking Skip button on modal
+2025-06-24 08:21:23,948 - get_login_page-chrome-(1280 800) - DEBUG - Searching and selecting store: xtian test store 01
+2025-06-24 08:21:24,853 - get_login_page-chrome-(1280 800) - DEBUG - Clicking Skip button on modal
+2025-06-24 08:21:26,362 - get_login_page-chrome-(1280 800) - DEBUG - Clicking sidebar menu item
+2025-06-24 08:21:27,830 - get_login_page-chrome-(1280 800) - DEBUG - Clicking Add Item button
+2025-06-24 08:21:28,002 - get_login_page-chrome-(1280 800) - DEBUG - Clicking PLU Active button
+2025-06-24 08:21:29,139 - get_login_page-chrome-(1280 800) - ERROR - PLU Active button not found: 

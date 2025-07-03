@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "name": "Login Controller Path Controller",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/test_module_controllers/login_controller.py",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}",
+            },
+            // "args": [
+            //     "login_controller.main_loop"
+            // ]
+        },
+        {
+            "name": "Cloud Controller",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/test_module_controllers/cloud_controller.py",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}",
+            }
+        },
+        {
+            "name": "Studio Controller",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/test_module_controllers/studio_controller.py",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            }
+        }
+    ]
+}

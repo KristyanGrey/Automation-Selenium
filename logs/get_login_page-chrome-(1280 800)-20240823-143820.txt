@@ -1,0 +1,4 @@
+2024-08-23 14:38:26,391 - get_login_page-chrome-(1280 800) - DEBUG - Ordering Page - Clicking login button T3.
+2024-08-23 14:38:28,545 - get_login_page-chrome-(1280 800) - DEBUG - Ordering Page - Click Login Button
+2024-08-23 14:38:29,654 - get_login_page-chrome-(1280 800) - DEBUG - Ordering Page - Click Login Button
+2024-08-23 14:38:30,715 - get_login_page-chrome-(1280 800) - DEBUG - Ordering Page / Login Popup - Click login.

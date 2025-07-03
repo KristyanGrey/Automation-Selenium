@@ -1,0 +1,3 @@
+2025-06-23 13:43:12,263 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Email
+2025-06-23 13:43:12,437 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Enter Password
+2025-06-23 13:43:12,540 - get_login_page-chrome-(1280 800) - DEBUG - CLOUD - Click Login Button

@@ -1,0 +1,6 @@
+2025-06-24 15:41:46,380 - poll-main-poll - DEBUG - Starting polling.
+2025-06-24 15:41:46,397 - poll-main-poll - DEBUG - Polling https://orderonline.dev.dsoftonline.com.au/api/get_order.php
+2025-06-24 15:41:46,705 - poll-main-poll - ERROR - Polling: Error occurred: HTTPSConnectionPool(host='orderonline.dev.dsoftonline.com.au', port=443): Max retries exceeded with url: /api/get_order.php (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+2025-06-24 15:41:51,999 - poll-main-poll - ERROR - Polling: Error occurred: HTTPSConnectionPool(host='orderonline.dev.dsoftonline.com.au', port=443): Max retries exceeded with url: /api/get_order.php (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+2025-06-24 15:41:57,254 - poll-main-poll - ERROR - Polling: Error occurred: HTTPSConnectionPool(host='orderonline.dev.dsoftonline.com.au', port=443): Max retries exceeded with url: /api/get_order.php (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+2025-06-24 15:41:57,254 - poll-main-poll - DEBUG - Polling: Finish event received, stopping polling.
